@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("my first printing")
+	fmt.Println("This is my 1st GO program printing")
 }
